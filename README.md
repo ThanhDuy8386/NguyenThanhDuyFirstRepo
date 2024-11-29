@@ -1,6 +1,5 @@
-my first repository
-this is a test repository created in vs code
-
-
-##Clone Verification
-Repository successfully clone into VS Code
+## Features
+- Prints a welcome message
+- Greets the user with their name
+## About
+This project demonstrates GitHub andVSCodeintegration with Java code.
