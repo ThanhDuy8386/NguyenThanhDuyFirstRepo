@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello dduy");
+        Scanner sc = new Scanner(System.in);
+        var name = sc.next();
+        System.out.println("Hello " + name);
         System.out.println("welcome to my repo");
     }
 }
